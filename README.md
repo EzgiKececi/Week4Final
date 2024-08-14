@@ -1,1 +1,1 @@
-# Week4Final
+OOP haftasındaki tüm metodların kullanıldığı uygulama. BaseMakine sınıfı ile telefon ve bilgisayar sınıflarına miras aktarıldı. Ortak özellikler temel sınıfta, cihazların spesifik  özellikleri ise kendi sınıflarında tanımlandı. Kullanıcıdan konsol üzerinden bilgiler alınıp ilgli metodlar çağrıldı. While döngüsü ile kullanıcının tekrar işlem yapabilmesi sağlandı. 
