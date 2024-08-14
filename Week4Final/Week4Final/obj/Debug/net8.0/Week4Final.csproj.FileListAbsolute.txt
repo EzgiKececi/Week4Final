@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\Week4Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\Week4Final.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\Week4Final.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\Week4Final.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\bin\Debug\net8.0\Week4Final.exe
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\bin\Debug\net8.0\Week4Final.deps.json
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\bin\Debug\net8.0\Week4Final.runtimeconfig.json
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\bin\Debug\net8.0\Week4Final.dll
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\bin\Debug\net8.0\Week4Final.pdb
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\Week4Final.dll
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\refint\Week4Final.dll
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\Week4Final.pdb
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\Week4Final.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\Week4Final\Week4Final\obj\Debug\net8.0\ref\Week4Final.dll
